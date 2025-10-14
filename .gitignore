@@ -38,14 +38,6 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Project specific
-models/*.pth
-models/*.pkl
-*.h5
-*.hdf5
-*.pt
-*.pth
-*.pkl
 
 # Node modules
 node_modules/
