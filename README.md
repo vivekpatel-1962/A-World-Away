@@ -99,7 +99,7 @@ Open an issue or submit a pull request with your suggestions or improvements!
 
 📚 **References**
 
-- [A World Away: Hunting for Exoplanets with AI]([https://exoplanetarchive.ipac.caltech.edu/](https://www.spaceappschallenge.org/2025/challenges/a-world-away-hunting-for-exoplanets-with-ai/?tab=details))
+- [A World Away: Hunting for Exoplanets with AI](https://www.spaceappschallenge.org/2025/challenges/a-world-away-hunting-for-exoplanets-with-ai/?tab=details)
 - Kepler, K2, and TESS mission data
 - JWST science documentation
 
