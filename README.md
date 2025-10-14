@@ -81,6 +81,15 @@ This project is an AI/ML-powered portal for the automatic detection of exoplanet
 
 ---
 
+**UI**
+![Exoplanet Detection UI Screenshot](./image.png)
+*Upload and Analyze Light Curve*
+
+![Manual Entry Screenshot](./manual.png)
+*Manual Feature Entry and Prediction*
+
+
+
 🤝 **Contributing**
 
 Want to make this project better?  
