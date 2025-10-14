@@ -24,9 +24,6 @@ wheels/
 venv/
 ENV/
 
-# Jupyter Notebook
-.ipynb_checkpoints
-*.ipynb
 
 # IDE
 .idea/
